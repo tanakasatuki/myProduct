@@ -3,5 +3,4 @@ tensorflow==2.10.0
 pathlib==1.0.1
 numpy==1.23.5
 pandas==1.5.3
-karas-preprocessing==1.1.2
 Pillow==9.4.0
